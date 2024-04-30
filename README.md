@@ -3,3 +3,6 @@ InfiniteWand is an ongoing project aimed at enhancing interaction through a cybe
 
 
 ![The interactive wand](wandProject.jpg)
+
+
+Code in this project can help you training your own motion model for this wand.
